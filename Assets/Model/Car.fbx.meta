@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 7b4b11d5929c4cf42a5efa6d6ce9413c
+timeCreated: 1477585258
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 4150_001
+    100002: 4150_002
+    100004: bmw mini c_001
+    100006: bonnet_ok_001
+    100008: boot_ok_001
+    100010: bump_fro01_001
+    100012: bump_rea01_001
+    100014: //RootNode
+    100016: Chassis_001
+    100018: D#1_001
+    100020: D#1_002
+    100022: door_lf_ok_001
+    100024: door_rf_ok_001
+    100026: Group_001
+    100028: M#2_001
+    100030: M#2_002
+    100032: mini_engin_001
+    100034: Mini_Light_001
+    100036: Plate 44_001
+    100038: Plate 44_003
+    100040: Plate Holder_001
+    100042: wheel_001
+    100044: wheel_002
+    100046: wheel_003
+    100048: wheel_004
+    100050: wing_lf_ok_001
+    100052: wing_rf_ok_001
+    100054: ZT_001
+    100056: ZT_002
+    400000: 4150_001
+    400002: 4150_002
+    400004: bmw mini c_001
+    400006: bonnet_ok_001
+    400008: boot_ok_001
+    400010: bump_fro01_001
+    400012: bump_rea01_001
+    400014: //RootNode
+    400016: Chassis_001
+    400018: D#1_001
+    400020: D#1_002
+    400022: door_lf_ok_001
+    400024: door_rf_ok_001
+    400026: Group_001
+    400028: M#2_001
+    400030: M#2_002
+    400032: mini_engin_001
+    400034: Mini_Light_001
+    400036: Plate 44_001
+    400038: Plate 44_003
+    400040: Plate Holder_001
+    400042: wheel_001
+    400044: wheel_002
+    400046: wheel_003
+    400048: wheel_004
+    400050: wing_lf_ok_001
+    400052: wing_rf_ok_001
+    400054: ZT_001
+    400056: ZT_002
+    2300000: 4150_001
+    2300002: 4150_002
+    2300004: bmw mini c_001
+    2300006: bonnet_ok_001
+    2300008: boot_ok_001
+    2300010: bump_fro01_001
+    2300012: bump_rea01_001
+    2300014: Chassis_001
+    2300016: D#1_001
+    2300018: D#1_002
+    2300020: door_lf_ok_001
+    2300022: door_rf_ok_001
+    2300024: Group_001
+    2300026: M#2_001
+    2300028: M#2_002
+    2300030: mini_engin_001
+    2300032: Mini_Light_001
+    2300034: Plate 44_001
+    2300036: Plate 44_003
+    2300038: Plate Holder_001
+    2300040: wheel_001
+    2300042: wheel_002
+    2300044: wheel_003
+    2300046: wheel_004
+    2300048: wing_lf_ok_001
+    2300050: wing_rf_ok_001
+    2300052: ZT_001
+    2300054: ZT_002
+    3300000: 4150_001
+    3300002: 4150_002
+    3300004: bmw mini c_001
+    3300006: bonnet_ok_001
+    3300008: boot_ok_001
+    3300010: bump_fro01_001
+    3300012: bump_rea01_001
+    3300014: Chassis_001
+    3300016: D#1_001
+    3300018: D#1_002
+    3300020: door_lf_ok_001
+    3300022: door_rf_ok_001
+    3300024: Group_001
+    3300026: M#2_001
+    3300028: M#2_002
+    3300030: mini_engin_001
+    3300032: Mini_Light_001
+    3300034: Plate 44_001
+    3300036: Plate 44_003
+    3300038: Plate Holder_001
+    3300040: wheel_001
+    3300042: wheel_002
+    3300044: wheel_003
+    3300046: wheel_004
+    3300048: wing_lf_ok_001
+    3300050: wing_rf_ok_001
+    3300052: ZT_001
+    3300054: ZT_002
+    4300000: M#2_002
+    4300002: D#1_002
+    4300004: 4150_002
+    4300006: ZT_002
+    4300008: Plate 44_003
+    4300010: M#2_001
+    4300012: D#1_001
+    4300014: 4150_001
+    4300016: ZT_001
+    4300018: Plate 44_001
+    4300020: Plate Holder_001
+    4300022: bmw mini c_001
+    4300024: door_rf_ok_001
+    4300026: mini_engin_001
+    4300028: Mini_Light_001
+    4300030: boot_ok_001
+    4300032: door_lf_ok_001
+    4300034: bonnet_ok_001
+    4300036: bump_fro01_001
+    4300038: Group_001
+    4300040: Chassis_001
+    4300042: wing_rf_ok_001
+    4300044: wing_lf_ok_001
+    4300046: bump_rea01_001
+    4300048: wheel_004
+    4300050: wheel_003
+    4300052: wheel_002
+    4300054: wheel_001
+    6400000: 4150_001
+    6400002: 4150_002
+    6400004: bmw mini c_001
+    6400006: bonnet_ok_001
+    6400008: boot_ok_001
+    6400010: bump_fro01_001
+    6400012: bump_rea01_001
+    6400014: Chassis_001
+    6400016: D#1_001
+    6400018: D#1_002
+    6400020: door_lf_ok_001
+    6400022: door_rf_ok_001
+    6400024: Group_001
+    6400026: M#2_001
+    6400028: M#2_002
+    6400030: mini_engin_001
+    6400032: Mini_Light_001
+    6400034: Plate 44_001
+    6400036: Plate 44_003
+    6400038: Plate Holder_001
+    6400040: wheel_001
+    6400042: wheel_002
+    6400044: wheel_003
+    6400046: wheel_004
+    6400048: wing_lf_ok_001
+    6400050: wing_rf_ok_001
+    6400052: ZT_001
+    6400054: ZT_002
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: 5ae77f078679bd64193c844ac8929739
+timeCreated: 1477585228
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 2ND FRONT X MEMBER_001
+    100002: 432-d34#1_001
+    100004: 432-d34_001
+    100006: Bolt head_001
+    100008: Bolt head_002
+    100010: Bolt head_003
+    100012: Bolt head_004
+    100014: Bolt head_005
+    100016: Bolt head_006
+    100018: Bolt head_007
+    100020: Bolt head_008
+    100022: Bolt head_009
+    100024: Bolt head_010
+    100026: Bolt head_011
+    100028: Bolt head_012
+    100030: Bolt head_013
+    100032: Bolt head_014
+    100034: Bolt head_015
+    100036: Bolt head_016
+    100038: Bolt head_017
+    100040: Bolt head_018
+    100042: Bolt head_019
+    100044: Bolt head_020
+    100046: Bolt head_021
+    100048: Bolt head_022
+    100050: Bolt head_023
+    100052: Bolt head_024
+    100054: Bolt head_025
+    100056: Box67_001
+    100058: Component#4_001
+    100060: Component#7_001
+    100062: Component#8_001
+    100064: Component#9_001
+    100066: Component#9_002
+    100068: Drum w/ freelock_001
+    100070: Drum w/ freelock_003
+    100072: Freeze_001
+    100074: fRONT X-MEMBER_001
+    100076: 'Frozen products #1_001'
+    100078: frozen products _001
+    100080: fUELTANK SUPPORT_001
+    100082: gEARBOX X MEMBER_001
+    100084: Group_001
+    100086: Group_002
+    100088: Group_003
+    100090: Group_004
+    100092: Group_005
+    100094: Group_007
+    100096: Group_009
+    100098: Group_010
+    100100: Group_012
+    100102: Group_013
+    100104: Group_014
+    100106: Group_015
+    100108: Group_017
+    100110: Group_018
+    100112: Group_019
+    100114: Group_020
+    100116: Group_021
+    100118: Group_022
+    100120: Group_023
+    100122: Group_024
+    100124: Group_025
+    100126: Group_026
+    100128: Group_027
+    100130: MATSON#1_001
+    100132: MATSON_001
+    100134: mID X MEMBER_001
+    100136: mID X MEMBER_002
+    100138: mID X MEMBER_003
+    100140: mID X MEMBER_004
+    100142: mID X MEMBER_005
+    100144: mID X MEMBER_006
+    100146: NEVADA#1_001
+    100148: NEVADA_001
+    100150: pARALEL CHASSIS_001
+    100152: pARALEL CHASSIS_003
+    100154: Rear bumper_001
+    100156: Rear drum_001
+    100158: ske125_001
+    100160: //RootNode
+    400000: 2ND FRONT X MEMBER_001
+    400002: 432-d34#1_001
+    400004: 432-d34_001
+    400006: Bolt head_001
+    400008: Bolt head_002
+    400010: Bolt head_003
+    400012: Bolt head_004
+    400014: Bolt head_005
+    400016: Bolt head_006
+    400018: Bolt head_007
+    400020: Bolt head_008
+    400022: Bolt head_009
+    400024: Bolt head_010
+    400026: Bolt head_011
+    400028: Bolt head_012
+    400030: Bolt head_013
+    400032: Bolt head_014
+    400034: Bolt head_015
+    400036: Bolt head_016
+    400038: Bolt head_017
+    400040: Bolt head_018
+    400042: Bolt head_019
+    400044: Bolt head_020
+    400046: Bolt head_021
+    400048: Bolt head_022
+    400050: Bolt head_023
+    400052: Bolt head_024
+    400054: Bolt head_025
+    400056: Box67_001
+    400058: Component#4_001
+    400060: Component#7_001
+    400062: Component#8_001
+    400064: Component#9_001
+    400066: Component#9_002
+    400068: Drum w/ freelock_001
+    400070: Drum w/ freelock_003
+    400072: Freeze_001
+    400074: fRONT X-MEMBER_001
+    400076: 'Frozen products #1_001'
+    400078: frozen products _001
+    400080: fUELTANK SUPPORT_001
+    400082: gEARBOX X MEMBER_001
+    400084: Group_001
+    400086: Group_002
+    400088: Group_003
+    400090: Group_004
+    400092: Group_005
+    400094: Group_007
+    400096: Group_009
+    400098: Group_010
+    400100: Group_012
+    400102: Group_013
+    400104: Group_014
+    400106: Group_015
+    400108: Group_017
+    400110: Group_018
+    400112: Group_019
+    400114: Group_020
+    400116: Group_021
+    400118: Group_022
+    400120: Group_023
+    400122: Group_024
+    400124: Group_025
+    400126: Group_026
+    400128: Group_027
+    400130: MATSON#1_001
+    400132: MATSON_001
+    400134: mID X MEMBER_001
+    400136: mID X MEMBER_002
+    400138: mID X MEMBER_003
+    400140: mID X MEMBER_004
+    400142: mID X MEMBER_005
+    400144: mID X MEMBER_006
+    400146: NEVADA#1_001
+    400148: NEVADA_001
+    400150: pARALEL CHASSIS_001
+    400152: pARALEL CHASSIS_003
+    400154: Rear bumper_001
+    400156: Rear drum_001
+    400158: ske125_001
+    400160: //RootNode
+    2300000: 2ND FRONT X MEMBER_001
+    2300002: 432-d34#1_001
+    2300004: 432-d34_001
+    2300006: Bolt head_001
+    2300008: Bolt head_002
+    2300010: Bolt head_003
+    2300012: Bolt head_004
+    2300014: Bolt head_005
+    2300016: Bolt head_006
+    2300018: Bolt head_007
+    2300020: Bolt head_008
+    2300022: Bolt head_009
+    2300024: Bolt head_010
+    2300026: Bolt head_011
+    2300028: Bolt head_012
+    2300030: Bolt head_013
+    2300032: Bolt head_014
+    2300034: Bolt head_015
+    2300036: Bolt head_016
+    2300038: Bolt head_017
+    2300040: Bolt head_018
+    2300042: Bolt head_019
+    2300044: Bolt head_020
+    2300046: Bolt head_021
+    2300048: Bolt head_022
+    2300050: Bolt head_023
+    2300052: Bolt head_024
+    2300054: Bolt head_025
+    2300056: Box67_001
+    2300058: Component#4_001
+    2300060: Component#7_001
+    2300062: Component#8_001
+    2300064: Component#9_001
+    2300066: Component#9_002
+    2300068: Drum w/ freelock_001
+    2300070: Drum w/ freelock_003
+    2300072: Freeze_001
+    2300074: fRONT X-MEMBER_001
+    2300076: 'Frozen products #1_001'
+    2300078: frozen products _001
+    2300080: fUELTANK SUPPORT_001
+    2300082: gEARBOX X MEMBER_001
+    2300084: Group_001
+    2300086: Group_002
+    2300088: Group_003
+    2300090: Group_004
+    2300092: Group_005
+    2300094: Group_007
+    2300096: Group_009
+    2300098: Group_010
+    2300100: Group_012
+    2300102: Group_013
+    2300104: Group_014
+    2300106: Group_015
+    2300108: Group_017
+    2300110: Group_018
+    2300112: Group_019
+    2300114: Group_020
+    2300116: Group_021
+    2300118: Group_022
+    2300120: Group_023
+    2300122: Group_024
+    2300124: Group_025
+    2300126: Group_026
+    2300128: Group_027
+    2300130: MATSON#1_001
+    2300132: MATSON_001
+    2300134: mID X MEMBER_001
+    2300136: mID X MEMBER_002
+    2300138: mID X MEMBER_003
+    2300140: mID X MEMBER_004
+    2300142: mID X MEMBER_005
+    2300144: mID X MEMBER_006
+    2300146: NEVADA#1_001
+    2300148: NEVADA_001
+    2300150: pARALEL CHASSIS_001
+    2300152: pARALEL CHASSIS_003
+    2300154: Rear bumper_001
+    2300156: Rear drum_001
+    2300158: ske125_001
+    3300000: 2ND FRONT X MEMBER_001
+    3300002: 432-d34#1_001
+    3300004: 432-d34_001
+    3300006: Bolt head_001
+    3300008: Bolt head_002
+    3300010: Bolt head_003
+    3300012: Bolt head_004
+    3300014: Bolt head_005
+    3300016: Bolt head_006
+    3300018: Bolt head_007
+    3300020: Bolt head_008
+    3300022: Bolt head_009
+    3300024: Bolt head_010
+    3300026: Bolt head_011
+    3300028: Bolt head_012
+    3300030: Bolt head_013
+    3300032: Bolt head_014
+    3300034: Bolt head_015
+    3300036: Bolt head_016
+    3300038: Bolt head_017
+    3300040: Bolt head_018
+    3300042: Bolt head_019
+    3300044: Bolt head_020
+    3300046: Bolt head_021
+    3300048: Bolt head_022
+    3300050: Bolt head_023
+    3300052: Bolt head_024
+    3300054: Bolt head_025
+    3300056: Box67_001
+    3300058: Component#4_001
+    3300060: Component#7_001
+    3300062: Component#8_001
+    3300064: Component#9_001
+    3300066: Component#9_002
+    3300068: Drum w/ freelock_001
+    3300070: Drum w/ freelock_003
+    3300072: Freeze_001
+    3300074: fRONT X-MEMBER_001
+    3300076: 'Frozen products #1_001'
+    3300078: frozen products _001
+    3300080: fUELTANK SUPPORT_001
+    3300082: gEARBOX X MEMBER_001
+    3300084: Group_001
+    3300086: Group_002
+    3300088: Group_003
+    3300090: Group_004
+    3300092: Group_005
+    3300094: Group_007
+    3300096: Group_009
+    3300098: Group_010
+    3300100: Group_012
+    3300102: Group_013
+    3300104: Group_014
+    3300106: Group_015
+    3300108: Group_017
+    3300110: Group_018
+    3300112: Group_019
+    3300114: Group_020
+    3300116: Group_021
+    3300118: Group_022
+    3300120: Group_023
+    3300122: Group_024
+    3300124: Group_025
+    3300126: Group_026
+    3300128: Group_027
+    3300130: MATSON#1_001
+    3300132: MATSON_001
+    3300134: mID X MEMBER_001
+    3300136: mID X MEMBER_002
+    3300138: mID X MEMBER_003
+    3300140: mID X MEMBER_004
+    3300142: mID X MEMBER_005
+    3300144: mID X MEMBER_006
+    3300146: NEVADA#1_001
+    3300148: NEVADA_001
+    3300150: pARALEL CHASSIS_001
+    3300152: pARALEL CHASSIS_003
+    3300154: Rear bumper_001
+    3300156: Rear drum_001
+    3300158: ske125_001
+    4300000: MATSON_001
+    4300002: NEVADA#1_001
+    4300004: frozen products _001
+    4300006: 432-d34#1_001
+    4300008: 'Frozen products #1_001'
+    4300010: 432-d34_001
+    4300012: NEVADA_001
+    4300014: MATSON#1_001
+    4300016: Freeze_001
+    4300018: Component#4_001
+    4300020: Box67_001
+    4300022: Bolt head_025
+    4300024: Bolt head_024
+    4300026: Bolt head_023
+    4300028: Bolt head_022
+    4300030: Bolt head_021
+    4300032: Bolt head_020
+    4300034: Bolt head_019
+    4300036: Bolt head_018
+    4300038: Bolt head_017
+    4300040: Bolt head_016
+    4300042: Bolt head_015
+    4300044: Bolt head_014
+    4300046: Bolt head_013
+    4300048: Bolt head_012
+    4300050: Bolt head_011
+    4300052: Bolt head_010
+    4300054: Bolt head_009
+    4300056: Bolt head_008
+    4300058: Bolt head_007
+    4300060: Bolt head_006
+    4300062: Bolt head_005
+    4300064: Bolt head_004
+    4300066: Bolt head_003
+    4300068: Bolt head_002
+    4300070: Bolt head_001
+    4300072: Group_027
+    4300074: Rear bumper_001
+    4300076: mID X MEMBER_006
+    4300078: mID X MEMBER_005
+    4300080: mID X MEMBER_004
+    4300082: mID X MEMBER_003
+    4300084: mID X MEMBER_002
+    4300086: gEARBOX X MEMBER_001
+    4300088: fUELTANK SUPPORT_001
+    4300090: mID X MEMBER_001
+    4300092: Group_026
+    4300094: 2ND FRONT X MEMBER_001
+    4300096: fRONT X-MEMBER_001
+    4300098: pARALEL CHASSIS_003
+    4300100: pARALEL CHASSIS_001
+    4300102: Group_025
+    4300104: Group_024
+    4300106: Group_023
+    4300108: Group_022
+    4300110: Group_021
+    4300112: Group_020
+    4300114: Group_019
+    4300116: Group_018
+    4300118: Group_017
+    4300120: Group_015
+    4300122: Group_014
+    4300124: Group_013
+    4300126: Rear drum_001
+    4300128: Drum w/ freelock_003
+    4300130: Drum w/ freelock_001
+    4300132: Group_012
+    4300134: Group_010
+    4300136: Group_009
+    4300138: Group_007
+    4300140: Group_005
+    4300142: Group_004
+    4300144: Group_003
+    4300146: Component#9_002
+    4300148: Component#9_001
+    4300150: Component#8_001
+    4300152: Component#7_001
+    4300154: ske125_001
+    4300156: Group_002
+    4300158: Group_001
+    6400000: 2ND FRONT X MEMBER_001
+    6400002: 432-d34#1_001
+    6400004: 432-d34_001
+    6400006: Bolt head_001
+    6400008: Bolt head_002
+    6400010: Bolt head_003
+    6400012: Bolt head_004
+    6400014: Bolt head_005
+    6400016: Bolt head_006
+    6400018: Bolt head_007
+    6400020: Bolt head_008
+    6400022: Bolt head_009
+    6400024: Bolt head_010
+    6400026: Bolt head_011
+    6400028: Bolt head_012
+    6400030: Bolt head_013
+    6400032: Bolt head_014
+    6400034: Bolt head_015
+    6400036: Bolt head_016
+    6400038: Bolt head_017
+    6400040: Bolt head_018
+    6400042: Bolt head_019
+    6400044: Bolt head_020
+    6400046: Bolt head_021
+    6400048: Bolt head_022
+    6400050: Bolt head_023
+    6400052: Bolt head_024
+    6400054: Bolt head_025
+    6400056: Box67_001
+    6400058: Component#4_001
+    6400060: Component#7_001
+    6400062: Component#8_001
+    6400064: Component#9_001
+    6400066: Component#9_002
+    6400068: Drum w/ freelock_001
+    6400070: Drum w/ freelock_003
+    6400072: Freeze_001
+    6400074: fRONT X-MEMBER_001
+    6400076: 'Frozen products #1_001'
+    6400078: frozen products _001
+    6400080: fUELTANK SUPPORT_001
+    6400082: gEARBOX X MEMBER_001
+    6400084: Group_001
+    6400086: Group_002
+    6400088: Group_003
+    6400090: Group_004
+    6400092: Group_005
+    6400094: Group_007
+    6400096: Group_009
+    6400098: Group_010
+    6400100: Group_012
+    6400102: Group_013
+    6400104: Group_014
+    6400106: Group_015
+    6400108: Group_017
+    6400110: Group_018
+    6400112: Group_019
+    6400114: Group_020
+    6400116: Group_021
+    6400118: Group_022
+    6400120: Group_023
+    6400122: Group_024
+    6400124: Group_025
+    6400126: Group_026
+    6400128: Group_027
+    6400130: MATSON#1_001
+    6400132: MATSON_001
+    6400134: mID X MEMBER_001
+    6400136: mID X MEMBER_002
+    6400138: mID X MEMBER_003
+    6400140: mID X MEMBER_004
+    6400142: mID X MEMBER_005
+    6400144: mID X MEMBER_006
+    6400146: NEVADA#1_001
+    6400148: NEVADA_001
+    6400150: pARALEL CHASSIS_001
+    6400152: pARALEL CHASSIS_003
+    6400154: Rear bumper_001
+    6400156: Rear drum_001
+    6400158: ske125_001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
